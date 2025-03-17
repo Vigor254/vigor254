@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is John
 ## Software engineer
- welcome to my github profile i am a experienced infull stack software developer mobile application development currently learning at emobilis 
+ welcome to my github profile i am a experienced in full stack software development and mobile application development currently learning at emobilis 
  insititute of technology, have a deep knowledge of mobile apllication and web development. i colaborate with designers to create a complex system and innovations. 
 
 - 🌍 I'm based in Nairobi, Kenya  
