@@ -4,7 +4,7 @@
  insititute of technology, have a deep knowledge of mobile apllication and web development. i colaborate with designers to create a complex system and innovations. 
 
 - 🌍 I'm based in Nairobi, Kenya  
-- ✉️ You can contact me at (mrlegit@gmail.com)  
+- ✉️ You can contact me at (mrlegitjohn@gmail.com)  
 - 🧠 I'm learning New Concepts in adroid  
 - 🤝 I'm open to collaborating on Android,python,javascript and Html
  
