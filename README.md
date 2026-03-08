@@ -1,4 +1,5 @@
-## Hi there 👋 my name is John
+## Hi there 👋 my name is John Mwaniki
+
 ## Software engineer
  welcome to my github profile i am a experienced in full stack software development and mobile application development currently learning at emobilis 
  insititute of technology, have a deep knowledge of mobile apllication and web development. i colaborate with designers to create a complex system and innovations. 
