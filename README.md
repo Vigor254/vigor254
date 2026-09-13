@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Vigor254/vigor254/main/blueprint-beach-banner.svg" width="100%" alt="Blueprint beach landscape banner" />
+
 <a href="https://github.com/Vigor254">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I'm+John+Mwaniki;Software+Engineer;Full-Stack+%26+Mobile+Developer" alt="Typing animation" />
 </a>
