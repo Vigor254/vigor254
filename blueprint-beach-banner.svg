@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#061b55"/><stop offset=".55" stop-color="#1675d1"/><stop offset="1" stop-color="#7ddcff"/></linearGradient>
+ <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0756b8"/><stop offset="1" stop-color="#03194f"/></linearGradient>
+ <linearGradient id="sand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8ee7ff"/><stop offset="1" stop-color="#0b4fa7"/></linearGradient>
+ <pattern id="hex" width="70" height="60" patternUnits="userSpaceOnUse"><path d="M17 1h36l17 29-17 29H17L0 30Z" fill="none" stroke="#6ee7ff" stroke-opacity=".16"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="400" fill="url(#sky)"/>
+<rect width="1200" height="400" fill="url(#hex)"/>
+<circle cx="790" cy="190" r="55" fill="#bdf7ff" opacity=".65" filter="url(#glow)"/>
+<circle cx="790" cy="190" r="24" fill="#fff" opacity=".9"/>
+<path d="M0 270 C180 220 300 255 430 235 C580 210 700 250 850 225 C1000 200 1100 235 1200 205V400H0Z" fill="url(#sea)"/>
+<path d="M0 305 C180 285 330 325 500 292 C650 264 820 310 980 275 C1080 255 1140 270 1200 255" fill="none" stroke="#8ff4ff" stroke-width="5" opacity=".75"/>
+<path d="M0 338 C170 315 320 350 490 320 C650 292 790 342 950 310 C1060 290 1130 310 1200 295" fill="none" stroke="#d8fbff" stroke-width="3" opacity=".7"/>
+<path d="M0 400V315 C95 292 160 278 245 292 C315 304 350 330 410 400Z" fill="url(#sand)" opacity=".8"/>
+<g fill="#020c2e">
+ <path d="M55 290 C70 225 68 170 55 120 C92 175 92 235 82 295Z"/><path d="M55 150c-45-30-48-54-48-54 38 8 56 26 64 47-4-40 7-68 7-68 18 30 15 59 3 79 27-25 55-28 55-28-15 35-42 48-70 48 18 20 31 44 35 67-35-12-56-36-64-63Z"/>
+ <path d="M180 295 C194 240 193 196 184 155 C214 200 215 250 207 300Z"/><path d="M186 205c-31-22-36-43-36-43 28 5 45 17 52 36-3-30 6-51 6-51 14 23 11 46 2 61 20-18 42-20 42-20-11 27-31 38-54 38 17 18 24 35 28 54-29-10-43-28-47-52Z"/>
+</g>
+<g fill="none" stroke="#25d9ff" stroke-width="3" opacity=".8">
+ <path d="M20 35h140l30 30h100"/><path d="M1040 45h105l35-35"/><path d="M1080 350h75l25-25"/><path d="M30 355h120l35-35"/>
+ <circle cx="190" cy="65" r="5" fill="#25d9ff"/><circle cx="1035" cy="45" r="5" fill="#25d9ff"/>
+</g>
+<g font-family="monospace" fill="#d9fbff" letter-spacing="5"><text x="35" y="48" font-size="15">BUILD / LEARN / GROW</text><text x="1010" y="65" font-size="18">&lt;/&gt;</text><text x="35" y="370" font-size="14">&gt; BETTER CODE</text><text x="35" y="390" font-size="14">&gt; A BRIGHTER FUTURE</text></g>
+<text x="600" y="145" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="72" font-weight="900" letter-spacing="4" fill="#092cff" stroke="#bdf7ff" stroke-width="2" paint-order="stroke">BLUEPRINT</text>
+<path d="M470 166h95M635 166h95" stroke="#39e8ff" stroke-width="4"/><path d="M600 154l8 15 17 2-13 11 4 17-16-9-16 9 4-17-13-11 17-2Z" fill="#39e8ff"/>
+<g font-family="monospace" font-size="14" fill="#d9fbff" letter-spacing="3"><text x="980" y="125">WEB DEV</text><text x="980" y="150">MOBILE DEV</text><text x="980" y="175">AI &amp; TECH</text><text x="980" y="200">SOFTWARE</text></g>
+</svg>
