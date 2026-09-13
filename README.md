@@ -73,7 +73,10 @@
 
 <img src="https://raw.githubusercontent.com/myusercloud/myusercloud/output/snake.svg" alt="Snake animation" />
 
-###
+##### 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vigor254&theme=dark&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
+
 
 ## Social Media
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-mwaniki-a65842353)
