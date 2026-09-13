@@ -1,4 +1,10 @@
-## Hi there 👋 my name is John Mwaniki
+<div align="center">
+
+<a href="https://github.com/Vigor254">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I'm+John+Mwaniki;Software+Engineer;Full-Stack+%26+Mobile+Developer" alt="Typing animation" />
+</a>
+
+</div>
 
 ## Software engineer
  welcome to my github profile i am a experienced in full stack software development and mobile application development currently learning at emobilis 
@@ -62,7 +68,7 @@
 <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
 <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
