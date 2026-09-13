@@ -12,7 +12,7 @@
  welcome to my github profile i am a experienced in full stack software development and mobile application development currently learning at emobilis 
  insititute of technology, have a deep knowledge of mobile apllication and web development. i colaborate with designers to create a complex system and innovations. 
 
-- 🌍 I'm based in Nairobi, Kenya  
+- 🌍 I'm based in Mombasa, Kenya  
 - ✉️ You can contact me at (mrlegitjohn@gmail.com)  
 - 🧠 I'm learning New Concepts in adroid  
 - 🤝 I'm open to collaborating on Android,python,javascript and Html
